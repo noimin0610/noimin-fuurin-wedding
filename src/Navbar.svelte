@@ -31,6 +31,11 @@
         </NavLink>
       </NavItem>
       <NavItem>
+        <NavLink href="/#/photos">
+          <span class="navbar-item">All Photos</span>
+        </NavLink>
+      </NavItem>
+      <NavItem>
         <NavLink href="/">
           <span class="navbar-item">Upload</span>
         </NavLink>
