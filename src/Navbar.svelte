@@ -47,5 +47,6 @@
 <style>
   .navbar-item {
     font-size: 1.5rem;
+    color: honeydew;
   }
 </style>
