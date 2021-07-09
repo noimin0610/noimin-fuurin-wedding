@@ -35,6 +35,10 @@
 			return
 		}
 
+		if(!confirm('本当に投稿しますか？')) {
+			return
+		}
+
 		// ファイル名を決める
 		const date = new Date()
 		const randomInt = Math.floor(Math.random() * 100000)
